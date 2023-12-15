@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MetodosString/MetodosString.iml" filepath="$PROJECT_DIR$/MetodosString/MetodosString.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion2Evaluaci-n.iml" filepath="$PROJECT_DIR$/.idea/Programacion2Evaluaci-n.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProyectoMetodos/ProyectoMetodos.iml" filepath="$PROJECT_DIR$/ProyectoMetodos/ProyectoMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SegundaEvaluacion.iml" filepath="$PROJECT_DIR$/.idea/SegundaEvaluacion.iml" />
     </modules>
   </component>
 </project>
